@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Lentil Soup",
+    "category": "Soup",
+    "calories": 180,
+    "vegan": true,
+    "ingredients": ["red lentil", "onion", "carrot", "butter", "salt"]
+  },
+  {
+    "name": "Pasta Pomodoro",
+    "category": "Main Course",
+    "calories": 420,
+    "vegan": true,
+    "ingredients": ["pasta", "tomatoes", "olive oil", "garlic", "basil"]
+  }
+]
